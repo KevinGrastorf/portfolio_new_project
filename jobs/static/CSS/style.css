@@ -1,0 +1,10 @@
+.name {
+    font-size: 5vw;
+    color: orange;
+    text-shadow: 2px 2px grey;
+}
+#pic {
+    width: 50vw;
+    height: auto;
+    border: 5px solid black;
+}
