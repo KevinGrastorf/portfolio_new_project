@@ -25,7 +25,9 @@ SECRET_KEY = 'w_plrq(a8-9fwefj!re8c$p=x2c1(o38$tk1b%qij@$y#cj2#='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'https://django-portfolio-kgrastorf.herokuapp.com/'
+]
 
 
 # Application definition
